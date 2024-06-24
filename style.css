@@ -691,5 +691,9 @@ fieldset{
         font-size: 0.5rem;
      }
 
+     .map {
+        width: 100%;
+     }
+
 
 }
